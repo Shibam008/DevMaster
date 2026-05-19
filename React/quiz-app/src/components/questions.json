@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Transfer Machine Language",
+      "Hyper Tool Multi Language",
+      "Home Text Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which JavaScript method is used to convert JSON data into a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.convert()",
+      "JSON.toObject()",
+      "JSON.decode()"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "question": "Which hook is used for state management in React?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useRef",
+      "useMemo",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "question": "Which company developed MongoDB?",
+    "options": [
+      "MongoDB Inc.",
+      "Google",
+      "Microsoft",
+      "Facebook",
+      "Oracle"
+    ],
+    "answer": "MongoDB Inc."
+  },
+  {
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": [
+      "const",
+      "let",
+      "var",
+      "static",
+      "final"
+    ],
+    "answer": "const"
+  },
+  {
+    "question": "What is the default port number of MongoDB?",
+    "options": [
+      "27017",
+      "3306",
+      "8080",
+      "5000",
+      "5432"
+    ],
+    "answer": "27017"
+  },
+  {
+    "question": "Which HTTP method is commonly used to update data?",
+    "options": [
+      "PUT",
+      "GET",
+      "DELETE",
+      "PATCH",
+      "POST"
+    ],
+    "answer": "PUT"
+  },
+  {
+    "question": "Which CSS property is used to change text color?",
+    "options": [
+      "color",
+      "font-color",
+      "text-style",
+      "background-color",
+      "text-color"
+    ],
+    "answer": "color"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Program Interaction",
+      "Application Process Integration",
+      "Automated Programming Interface",
+      "Applied Program Internet"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "Which database type is MongoDB?",
+    "options": [
+      "NoSQL",
+      "Relational",
+      "Graph",
+      "Hierarchical",
+      "Network"
+    ],
+    "answer": "NoSQL"
+  }
+]

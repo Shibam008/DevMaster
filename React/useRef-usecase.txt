@@ -1,0 +1,7 @@
+
+
+
+normal variable  |      useState         |     useRef
+
+re-render   ❌  |   re-render   ✅      |   re-render   ❌
+val-persist ❌  |   val-persist ✅      |   val-persist ✅
